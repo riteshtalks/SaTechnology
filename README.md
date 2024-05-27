@@ -13,4 +13,5 @@ Created this project on maven with java, selenium and testNG.
 3. Assert classs is used to assert the actual and expected result.
 4. Select class is used to select from 'Job Role' drop down menu
 5. Explicit wait is used to click on 'I Agree' toggle checkbox as there was inbuilt chrom popup was coming which was not allowing to click at that time.
+6. Defect document is attached.
    
